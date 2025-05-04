@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PokemonDescription>
+	<Pokemon number="4" name="Salamèche">
+		<Types t1="2" t2="0"/>
+		<Stats hp="39" att="52" def="43" att_spe="60" def_spe="50" speed="65"/>
+	</Pokemon>
+</PokemonDescription>

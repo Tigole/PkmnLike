@@ -1,0 +1,3 @@
+[submodule "submodules/TinyXML_Boosted"]
+	path = submodules/TinyXML_Boosted
+	url = https://github.com/Tigole/TinyXML_Boosted.git
